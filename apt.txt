@@ -1,5 +1,2 @@
 build-essential
 swig
-gcc
-python-dev
-python-pip
